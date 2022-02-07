@@ -1,0 +1,13 @@
+body {
+    color:#fff;
+    background-color: #000
+}
+
+.fide {
+    color: black;
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
